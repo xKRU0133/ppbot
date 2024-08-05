@@ -1,0 +1,9 @@
+{
+	"prefix": ">",
+	"verifyRole": "1052493784321110087",
+  "TARGET_INVITE_CODE": "bPGSGRSbBG",
+	"messages": {
+		"COOLDOWN_MESSAGE": "You are on `<duration>` cooldown!",
+    "ephemeral": true
+	}
+}

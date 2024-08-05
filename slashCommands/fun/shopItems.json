@@ -1,0 +1,5 @@
+{
+  "Alpha(test)": { "id": "1266428402152247337", "name": "Alpha(test)", "displayName": "アルファ(テスト)", "price": 100, "type": "role" },
+  "Test": { "id": "", "name": "<a:fire:1133272329904996443>", "displayName": "ファイアバッジ", "price": 550, "type": "badge" },
+  "Nitro-Basic": { "id": "NB", "name": "Nitro-Basic", "displayName": "Nitro Basic", "price": 10000, "type": "item" }
+}
